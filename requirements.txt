@@ -1,9 +1,0 @@
-requests
-tkinter
-numpy
-pandas
-keras
-nltk
-Flask
-pickle
-gunicorn
