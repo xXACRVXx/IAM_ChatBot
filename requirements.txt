@@ -6,3 +6,4 @@ keras
 nltk
 Flask
 pickle
+gunicorn
